@@ -4,7 +4,7 @@ var router = express.Router();
 //const {verifyLoad} = require('../middlewares/validacion_carga_maq')
 //me muestra el form para cargar las maq
 const get = (req, res)=>{
-    res.render("cargar_maq_disponible")
+    res.end("aun estamos trabajando, espere por favor")
 
 }
 //carga la maq
